@@ -1,0 +1,29 @@
+{
+  "name": "blog",
+  "version": "0.0.0",
+  "description": "my blog site",
+  "main": "index.js",
+  "dependencies": {
+    "express": "~4.9.4",
+    "handlebars": "~2.0.0",
+    "gulp": "~3.8.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DartMarcius/blog"
+  },
+  "keywords": [
+    "blog",
+    "resume"
+  ],
+  "author": "Markiyan Pyts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DartMarcius/blog/issues"
+  },
+  "homepage": "https://github.com/DartMarcius/blog"
+}
