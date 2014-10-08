@@ -523,9 +523,13 @@
 	"build_system": "Packages/YUI Compressor/YUI Compressor.sublime-build",
 	"command_palette":
 	{
-		"height": 58.0,
+		"height": 311.0,
 		"selected_items":
 		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
 			[
 				"Package Control: ins",
 				"Package Control: Install Package"
@@ -586,8 +590,46 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/D/blogProject/blog",
+		"/D/blogProject/blog/public",
+		"/D/blogProject/blog/public/js",
+		"/D/blogProject/blog/public/js/jam",
+		"/D/blogProject/blog/public/js/jam/underscore"
+	],
 	"file_history":
 	[
+		"/C/Users/user/Dropbox/MyProjects/lessons/css/mkediaQueries/project-files/site05MinMax/css/print.css",
+		"/C/Users/user/Dropbox/MyProjects/lessons/css/mkediaQueries/project-files/site05MinMax/css/styles.css",
+		"/C/Users/user/Dropbox/MyProjects/lessons/css/mkediaQueries/project-files/site06MediaInAction/css/styles.css",
+		"/C/Users/user/Dropbox/MyProjects/lessons/css/mkediaQueries/project-files/site03/css/styles.css",
+		"/C/Users/user/Dropbox/MyProjects/lessons/css/mkediaQueries/project-files/site03/index.html",
+		"/D/blogProject/blog/public/js/jam/require.js",
+		"/C/Users/user/Dropbox/MyProjects/lessons/css/mkediaQueries/project-files/site03/css/print.css",
+		"/D/blogProject/blog/public/js/jam/require.config.js",
+		"/C/Users/user/Dropbox/MyProjects/lessons/css/mkediaQueries/project-files/site02/index.html",
+		"/C/Users/user/Dropbox/MyProjects/lessons/css/mkediaQueries/project-files/site02/css/styles.css",
+		"/C/Users/user/Dropbox/MyProjects/lessons/css/mkediaQueries/project-files/site02/css/print.css",
+		"/C/Users/user/Dropbox/MyProjects/lessons/css/mkediaQueries/project-files/site01/css/styles.css",
+		"/C/Users/user/Dropbox/MyProjects/lessons/css/mkediaQueries/project-files/site01/index.html",
+		"/D/blogProject/blog/public/css/sass/partials/_header.scss",
+		"/D/blogProject/blog/gulpfile.js",
+		"/D/blogProject/blog/public/js/require.config.js",
+		"/D/blogProject/blog/.gitignore",
+		"/D/blogProject/blog/package.json",
+		"/D/blogProject/blog/server.js",
+		"/D/blogProject/blog/public/css/sass/main.scss",
+		"/D/blogProject/blog/public/css/main.css",
+		"/D/blogProject/blog/public/css/sass/partials/header.scss",
+		"/D/blogProject/blog/public/css/sass/partials/header.sass",
+		"/C/Users/user/Dropbox/MyProjects/lessons/gulp/test/gulpfile.js",
+		"/D/blogProject/blog/public/js/require.js",
+		"/D/blogProject/blog/public/test.html",
+		"/D/blogProject/blog/public/css/bootstrap.css",
+		"/D/blogProject/blog/public/js/bootstrap/package.json",
+		"/D/blogProject/blog/public/js/backbone.marionette/package.json",
+		"/D/blogProject/blog/public/js/backbone.marionette/lib/core/amd/backbone.marionette.js",
 		"/C/Users/Marcius/Desktop/accordion/liteAccordion/js/liteaccordion.jquery.js",
 		"/C/Users/Marcius/Desktop/accordion/liteAccordion/index.html",
 		"/C/Users/Marcius/Desktop/accordion/liteAccordion/css/liteaccordion.css",
@@ -685,47 +727,19 @@
 		"/D/Dashio/Dashio - Dashboard/Theme/file_upload.html",
 		"/C/wamp/www/sigmachain_repo/app/models/CompanyData.php",
 		"/C/wamp/www/sigmachain_repo/public/bootstrap/assets/js/bootstrap-fileupload/bootstrap-fileupload.js",
-		"/C/wamp/www/sigmachain_repo/app/database/migrations/2014_06_09_170613_create_company_data_table.php",
-		"/C/wamp/www/sigmachain_repo/public/js/dashboard.js",
-		"/D/Dashio/Dashio - Dashboard/Theme/profile.html",
-		"/C/wamp/www/sigmachain_repo/app/views/layouts/dashboard_master.blade.php",
-		"/C/wamp/www/sigmachain_repo/public/bootstrap/assets/js/common-scripts.js",
-		"/C/wamp/www/sigmachain_repo/app/views/test.blade.php",
-		"/C/wamp/www/sigmachain_repo/public/bootstrap/assets/css/style.css",
-		"/C/wamp/www/sigmachain_repo/app/views/pages/registration_confirm.blade.php",
-		"/D/dashtest/Dashio/Dashio - Dashboard/Theme/profile.html",
-		"/C/wamp/www/sigmachain_repo/app/views/js_footers/dashboards/4c503fd0-9e9e-481c-b78a-69b32377c158.dmp",
-		"/D/Dashio/Dashio - Dashboard/Theme/advanced_table.html",
-		"/D/Dashio/Dashio - Dashboard/Theme/assets/js/jquery.nicescroll.js",
-		"/D/Dashio/Dashio - Dashboard/Theme/advanced_form_components.html",
-		"/C/wamp/www/sigmachain_repo/app/views/pages/dashboards/dashboard.blade.php",
-		"/D/Dashio/Dashio - Dashboard/Theme/404.html",
-		"/D/Dashio/Dashio - Dashboard/Theme/500.html",
-		"/C/wamp/www/sigmachain_repo/app/views/js_footers/home.blade.php",
-		"/C/wamp/www/sigmachain_repo/app/helpers/Helpers.php",
-		"/C/wamp/www/sigmachain_repo/app/config/local/mail.php",
-		"/C/wamp/www/sigmachain_repo/app/views/footers/copyright.blade.php",
-		"/C/wamp/www/sigmachain_repo/app/views/headers/home.blade.php",
-		"/C/wamp/www/sigmachain_repo/app/views/footers/home.blade.php",
-		"/C/wamp/www/sigmachain_repo/app/views/registration.blade.php",
-		"/C/wamp/www/sigmachain_repo/public/js/home.js",
-		"/C/wamp/www/sigmachain_repo/app/views/js_footers/custom.blade.php",
-		"/C/wamp/www/sigmachain_repo/app/views/js_footers/default.blade.php",
-		"/C/wamp/www/sigmachain_repo/public/bootstrap/front_end/css/style.css",
-		"/D/Dashio/Dashio - FrontEnd/Theme/index.html",
-		"/D/theme/Special Gift.txt",
-		"/D/theme/Dashio - Dashboard/Theme/advanced_table.html",
-		"/C/Users/Marcius/Dropbox/MyProjects/eskill/new/powerpoint/body.html"
+		"/C/wamp/www/sigmachain_repo/app/database/migrations/2014_06_09_170613_create_company_data_table.php"
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
 		"height": 90.0,
 		"where_history":
 		[
+			"D:\\blogProject\\blog",
+			"",
 			"C:\\wamp\\www\\sigmachain_repo\\app\\views\\emails",
 			""
 		]
@@ -735,6 +749,17 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"'",
+			"\\",
+			"'",
+			"\"\"",
+			"baseUrl",
+			"packageDir",
+			".jam",
+			"package.json",
+			"config",
+			"baseurl",
+			"baseUrl",
 			"log",
 			"selected",
 			"setSlidePositions",
@@ -851,18 +876,7 @@
 			"main-registration-form",
 			"blur",
 			"CompanyNameIsCorrect",
-			"companyAddressIsValid",
-			"CompanyNameIsCorrect",
-			"company-name-input",
-			"company-info-form",
-			"#main-registration-form",
-			"$result",
-			"initFileupload",
-			"$v",
-			"imageExtIsCorrect",
-			"$(ev.target)",
-			"tooltip",
-			"company-latitude"
+			"companyAddressIsValid"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -922,7 +936,7 @@
 	},
 	"output.find_results":
 	{
-		"height": 88.0
+		"height": 274.0
 	},
 	"project": "blog.sublime-project",
 	"replace":

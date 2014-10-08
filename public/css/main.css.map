@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "mappings": "AAAA,OAAQ;EACP,gBAAgB,EAAE,KAAK;;ACDxB,CAAE;EACD,KAAK,EAAE,KAAK",
+  "sources": [
+    "public/css/file:/D:/blogProject/blog/public/css/sass/partials/_header.scss",
+    "public/css/file:/D:/blogProject/blog/public/css/sass/partials/_test.scss"
+  ],
+  "names": [],
+  "file": "main.css"
+}
