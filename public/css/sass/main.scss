@@ -1,2 +1,9 @@
-@import "partials/header";
-@import "partials/test";
+@import "../external/bootstrap";
+@import "../external/theme_custom";
+
+@import "../external/font-awesome";
+
+@import "partials/vars";
+@import "partials/mixins";
+@import "partials/custom";
+@import "partials/3d";

@@ -1,10 +1,12 @@
 var express = require("express"),
 	app = express(),
 	handlebars  = require('express-handlebars');
+	
+
 
 app.engine('handlebars', handlebars({defaultLayout: 'main', extname: '.handlebars'}));
 app.set('view engine', 'handlebars');
-
+app.use(express.static(__dirname + '/public'));
 var context = {
         title: 'Page 1',
         message: 'This is a message'
